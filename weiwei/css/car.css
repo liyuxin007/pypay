@@ -1,0 +1,44 @@
+a{text-decoration: none;color: #777;}
+.box3_img{margin-left: 100px;}
+.center_img{height: 140px;width: 435px;margin: 0 auto;position: relative;margin-top: 130px;margin-bottom:170px ;}
+.center_img img{float: left;}
+.center_img h3{float: left;margin: 10px 0  10px 20px;color: #777777;}
+.center_img p{float: left;margin: 10px;padding:7px 14px;border: 1px solid black;color: #777777;
+border: 1px solid #dcdcdc;cursor: pointer;}
+
+.img_a1{background: url(../img/car3.png) no-repeat 0 12px;}
+.img_a2{background: url(../img/car4.png) no-repeat 0 11px;}
+.updown22{width: 100%;background:#f2f2f2 ;text-align: center;font-size: 13px;color:#666;}
+
+.do2{text-align: center;padding-top:10px;margin-bottom:10px ;}
+.do2 a{margin: 10px;}
+.do2 span{margin-right: 25px;}
+.updown22 p{padding: 13px;}
+.box4{width: 1032px;margin: 0 auto;height: 480px;position: relative;display: none;}
+.shopping{border-top: 1px solid #666;border-bottom: 1px solid #666;width: 1032px;}
+.span20{height: 50px;margin-top: 20px;background:#f9f9f9 ;line-height: 50px;font-size: 14px;}
+.span20 span{margin: 0 47px;}
+.span20 img{position: absolute;left: 26px;top: 170px;height: 40px;width:40px ;}
+.span20 .span201{margin-left: 0;margin-right: 20px;}
+.span20 .span202{margin:  192px;}
+.span20  .ll{margin: 0 35px;}
+.span211{display:inline-block;height: 40px;line-height: 40px;}
+.span21 span{margin: 0 30px;}
+.span21 {margin-top: 20px;}
+.shanchu{cursor: pointer;}
+.em_a{width: 20px;height: 15px;display:inline-block;position: relative;
+border: 1px solid black;text-align: center;line-height: 15px;cursor: pointer;}
+.span30{background: #daf0fe;height: 30px;line-height: 30px;font-size: 13px;font-weight: bold;}
+.cc{margin-top: 0;}
+.span20 .ss{margin: 0 92px 0 71px;}
+.shanchu1{cursor: pointer;}
+.shanchu1:hover{color: red;}
+.span20 .vv{margin-left: 24px;}
+.clear div{float: right;}
+.clear{overflow: hidden;padding: 30px;}
+.zh{font-size: 14px;}
+.zh1{font-size: 20px;color: #666;}
+.zh2{width:220px;height: 35px;background: #ffa500;color: white;text-align: center;
+line-height:35px ;cursor: pointer;font-size: 14px;}
+.zh3{color: #ffa500;font-size: 30px;}
+

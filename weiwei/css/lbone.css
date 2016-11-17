@@ -1,0 +1,9 @@
+ .clear{overflow:hidden; clear:both; width:0px; height:0px; }
+        .imgbox{width:940px;  text-align:center; position: relative;left: 28px;top: 5px;}
+        .banner_img{padding:0px; margin:0px;}
+        .banner_img li{float:left; list-style:none; }
+        .banner_img img{width: 860px;height: 313px;}
+        .imgnum span{border-radius:10px; font:normal normal bold 12px/15px 微软雅黑; color:#FFF; 
+        margin-left:5px; padding:0.5px 15px ;  background-color:#F90; cursor:pointer;}
+        .imgnum span.onselect{background-color:#F00;}
+        .imgnum{text-align:center; float:right;  position:absolute;left: 300px;bottom: 10px;}

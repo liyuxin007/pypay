@@ -1,0 +1,78 @@
+body,ul,h5,hr,p{margin: 0;padding: 0;}
+
+li{list-style: none ;}
+a{cursor: pointer;}
+a:hover{color:#ffa500 ;}
+em{font-style: normal;}
+.clear{overflow: hidden;}
+.box1{height: 30px;width: 100%;background:#fafafa ;font-size: 12px;line-height: 30px;border-bottom: 1px solid #f0f0f0;}
+.box1_span{display:inline-block;height: 31px;position: relative;z-index:11 ;}
+.box1_div{float: right;height: 30px;line-height: 30px;width: 740px;}
+.box1_div strong{font-style:normal ;color: #777777;}
+.box1_div div{float: left;margin-right: 10px;}
+.box1_div li{cursor: pointer;}
+.box1_div .box1_a{color: #FFA500;margin: 0;}
+.box1_bga{background: url(../img/zy1.png) no-repeat 7px;}
+.box1_bgb{background: url(../img/dy1.png) no-repeat 5px 9px;width: 80px;}
+.box1_spbox{width:245px ;height: 270px;border: 1px solid #f0f0f0 ;display: none;position: absolute;left: 30px;z-index: 10;background: white;}
+.box li{float: left;margin:0 5px;font-size: 12px;padding:4px 5px;cursor: pointer;}
+
+.on{background: #ffa500;color: white;}
+.on1{background: #eee;color:#ffa500;}
+.on2{border-right:1px solid #f0f0f0 ;border-bottom:1px solid white ;border-left:1px solid #f0f0f0 ;background: white;}
+.on3{position: relative;z-index: 99;}
+.m{float:left;color: #777;}
+.m ul{background: white;}
+.m span{margin-right: 20px;}
+
+.j li{border: 1px solid white;}
+.j ul{overflow: hidden;}
+.j ul li{width: 93px;text-align: center;}
+.n1{display: none;}
+.on11{background: #fafafa;}
+.on22{background: #ffa500;color: white;}
+.select ul{border: 1px solid #f9f9f9;background: white;}
+.select_a{display: none;}
+.select_aa{background:#f9f9f9 ;}
+.select li{padding:5px  1px 0 1px;cursor: pointer;}
+.box2{overflow: hidden;margin-top: 25px;}
+.box2 img{display: inline-block;float: left;}
+.box2 input{width: 380px;height: 40px;border: 3px solid #ffa500;outline:none;padding-left: 65px ;}
+.select_b{width: 80px;height: 48px;background:#ffa500 ;text-align: center;line-height: 47px;float: left;cursor: pointer;}
+.select_c{float: left;margin-left: 80px;}
+.select {position: absolute;left: 466px;top:3px;z-index: 10;width: 65px;height: 42px;background: #f9f9f9;text-align: center;line-height: 29px;}
+.select_d{position: absolute;left: 459px;top:50px;font-size: 13px;z-index: 9;}
+.select_d li{float: left;padding: 0 5px;}
+.bc{color:#ffa500;}
+.box3{margin: 0 auto;width: 1240px;position: relative;}
+.shop_box{font-size: 12px;}
+.shop{width: 150px;height: 45px;border: 1px solid #f0f0f0;
+color:#555;float: right;margin-right: 60px;line-height:45px ;background: #fafafa;}
+.shop img{margin: 13px 2px 0 20px;}
+.shop1{width: 355px;height: 155px;border: 1px solid #f0f0f0;position: absolute;right: 60px;top: 47px;display: none;z-index:11 ;}
+.on33{border-bottom: 2px solid white;position: relative;z-index: 19;background: white;}
+.shop_cent{height: 53px;font-size: 12px;color: #666;line-height: 43px;text-align: center;background: white;}
+.shop_bottom{font-size: 12px;color: #666;background: #f0f0f0;height: 50px;width: 355px;}
+.shop1 p{color: #666;background: white;padding: 20px 0;}
+.shop_bottom div{width: 126px;height: 30px;text-align: center;line-height: 30px;background: #ffa500;border-radius: 5px;float: right;margin-top:10px;color: white;cursor: pointer;}
+.num{background: #ffa500;margin-top: 20px;height: 35px;width: 215px;line-height: 35px;text-align: center;color: white;}
+
+.mall_type{width: 215px;height: 436px;background: #2b2b2b;color: white;overflow: hidden;float: left;position: absolute;display: none;z-index:999 ;}
+.mall_type span{float: right;margin-right: 10px ;}
+.mall_type li{float: left;padding: 5px 15px;font-size: 13px;cursor: pointer;}
+.mall_type ul{overflow: hidden;margin-bottom: 10px;}
+.mall_type div{margin-top:20px;margin-bottom: 10px;color: #fabe00;}
+.num1{float: left;}
+.num2 li{float: left;padding:30px 15px 20px 15px;color:#333333 ;}
+.num2 ul{overflow: hidden;}
+
+.num2_a{width: 300px;height: 150px;float :left;margin-left: 15px;}
+.num2_a span{margin: 5px;font-size: 13px;}
+.num2_a h5{margin-left: 5px;}
+.num2_a_box{width: 950px;}
+.num2_b ul{display: none;position: absolute;left: 215px;top: 50px;z-index:999 ;background: white;border-top:2px solid black ;margin-top:5px;}
+.num2 li{cursor: pointer;}
+.hr{position:absolute;top: 172px;width: 1261px;border: 1px solid black;z-index: 9;}
+.num2_a_box span{cursor: pointer;color: #929292;display: inline-block;padding: 5px;}
+.onspan{background: #ffa500;color:white}
+.retph{position: absolute;top: 15px;right: 60px;}

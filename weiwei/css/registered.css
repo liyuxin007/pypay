@@ -1,0 +1,34 @@
+.box1{height: 70px;width: 100%;line-height: 70px;}
+.box1 img{padding-left: 30px;cursor:pointer ;}
+.box1 .a_r{float: right;display: inline-block;padding: 0 30px;cursor: pointer;}
+a{text-decoration: none;}
+em{font-style: normal;}
+.img {margin-left: 30px;}
+.rt1{width: 425px;height: 480px;margin: 0 auto;margin-top:40px;}
+
+.yanzen{width: 425px;height: 485px;background: white;margin:0 auto;overflow: hidden;position: relative;}
+.yanzen1{font-size: 13px;color: red;position: absolute;display: none;}
+.a{top: 57px;}
+.aa{top: 57px;}
+.b{top:140px;}
+.bb{top:140px;}
+.c{top:240px;left: 0;}
+.d{top:269px}
+.yanzen p{float: right;margin-right: 25px;}
+.yanzen input{width: 372px;height: 50px;margin:10px 0 20px 0;font-size: 16px;outline:none;border: 1px solid #ddd;padding-left: 50px;}
+.tp_a{background:url(../img/zuce33.png) no-repeat 13px;}
+.tp_b{background:url(../img/lading4.png) no-repeat 10px;}
+.tp_c{background:url(../img/lading4.png) no-repeat 10px;position: relative;}
+#random{position: absolute;width: 90px;height: 27px;background: #8c7b6c;right: 25px;top:107px;text-align: center;line-height: 27px;font-size: 17px;cursor: pointer;}
+.dl{width: 425px;height: 40px;background: #ff9900;color: white;text-align: center;border-radius: 10px;line-height: 40px;cursor: pointer;margin-top: 20px;}
+.text1{width: 15px;height: 15px;border-radius: 50%;border: 1px solid black;display: inline-block;text-align: center;line-height: 14px;color: white;cursor:pointer ;}
+.yanzen .n{width: 200px;}
+.text{margin: 10px 0;}
+.text a{color: blue;}
+.dl2{width: 140px;height: 40px;background: #ff9900;color: white;text-align: center;border-radius: 10px;line-height: 40px;cursor: pointer;position: absolute;right: 0;top:169px;}
+.text12{background: green;}
+.updown2{width: 100%;background:#f2f2f2 ;text-align: center;font-size: 13px;color:#666;}
+.do{text-align: center;padding-top:10px;}
+.do a{margin: 10px;}
+.do span{margin-right: 25px;}
+.updown2 p{margin: 20px;}

@@ -1,0 +1,13 @@
+
+.banner1{width: 590px;height: 400px;margin-left: 25px;margin-top: 20px;position: relative;overflow: hidden;}
+
+.banner1 .img{width: 5000px;position: absolute;top: 0;left: 0;}
+.banner1 .img li{float: left;}
+.banner1 .img img{width: 590px;height: 400px;}
+.banner1 .num{width: 100%;position: absolute;bottom:10px;left:0;text-align: center;font-size: 0px;}
+.banner1 .num li{width: 20px;height: 10px;background: #888;border-radius: 10px;display: inline-block;cursor: pointer;margin:0 3px;}
+.banner1 .num li.on{background:#F60;}
+.banner1 .btn{width:30pxheight: 50px;line-height: 50px;color: #fff;background: rgba(0,0,0,0.5);position: absolute;top:50%;margin-top: -25px;
+cursor: pointer;text-align: center;font-size: 40px;display: none;}
+.banner1 .btn_l{ left:0;}
+.banner1 .btn_r{ right:0;}
